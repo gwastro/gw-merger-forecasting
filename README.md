@@ -1,5 +1,4 @@
-# Gravitational-wave Merger Forecasting: Scenarios for the early detection and localization of
-compact-binary mergers with ground based observatories
+# Gravitational-wave Merger Forecasting: Scenarios for the early detection and localization of compact-binary mergers with ground based observatories
 **Alexander H. Nitz<sup>1,2</sup>, Marlin B. Schaefer<sup>1,2</sup>, Tito Dal Canton<sup>3</sup>**
 
  <sub>1. [Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>  
