@@ -5,7 +5,7 @@
  <sub>2. Leibniz Universitat Hannover, D-30167 Hannover, Germany</sub> 
  <sub>3. Universit´e Paris-Saclay, CNRS/IN2P3, IJCLab, 91405 Orsay, France</sub>
 
-This repository is companion data release. [The preprint paper is available from the arxiv]().
+This repository is companion data release. [The preprint paper is available from the arxiv](https://arxiv.org/abs/2009.04439).
  
 ## Abstract ##
 We present the prospects for the early (pre-merger) detection and localization of compact-binary
